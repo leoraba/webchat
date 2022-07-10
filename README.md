@@ -4,8 +4,9 @@ https://www.youtube.com/watch?v=KB7JEnfc7Dc
 
 
 # Tools
-React \
-Firebase
+React 18 \
+Firebase 9.9 \
+Material UI 5.8
 
 
 
